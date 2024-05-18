@@ -1,0 +1,1300 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.5.18)  18 MAY 2024 06:59
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**"c:/Users/Rio/Desktop/Data Analysis/DataScienceProject/Report/sample.tex"
+(c:/Users/Rio/Desktop/Data Analysis/DataScienceProject/Report/sample.tex
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-04-11>
+(cup-journal.cls
+Document Class: cup-journal 2023/05/02 v1.3 Submission to CUP journals
+(C:\Users\Rio\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
+Document Class: article 2023/05/17 v1.4n Standard LaTeX document class
+(C:\Users\Rio\AppData\Local\Programs\MiKTeX\tex/latex/base\size10.clo
+File: size10.clo 2023/05/17 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count189
+\c@section=\count190
+\c@subsection=\count191
+\c@subsubsection=\count192
+\c@paragraph=\count193
+\c@subparagraph=\count194
+\c@figure=\count195
+\c@table=\count196
+\abovecaptionskip=\skip48
+\belowcaptionskip=\skip49
+\bibindent=\dimen140
+) (C:\Users\Rio\AppData\Local\Programs\MiKTeX\tex/latex/lastpage\lastpage.sty
+Package: lastpage 2024/04/27 v2.1a lastpage: 2.09 or 2e? (HMM)
+ (C:\Users\Rio\AppData\Local\Programs\MiKTeX\tex/latex/lastpage\lastpage2e.sty
+Package: lastpage2e 2024/04/27 v2.1a Decide which 2e lastpage version to use (HMM)
+ (C:\Users\Rio\AppData\Local\Programs\MiKTeX\tex/latex/lastpage\lastpagemodern.sty
+Package: lastpagemodern 2024-04-27 v2.1a Refers to last page's name (HMM; JPG)
+\c@lastpagecount=\count197
+) 
+)) (C:\Users\Rio\AppData\Local\Programs\MiKTeX\tex/latex/enumitem\enumitem.sty
+Package: enumitem 2019/06/20 v3.9 Customized lists
+\enitkv@toks@=\toks17
+\labelindent=\skip50
+\enit@outerparindent=\dimen141
+\enit@toks=\toks18
+\enit@inbox=\box51
+\enit@count@id=\count198
+\enitdp@description=\count199
+) (C:\Users\Rio\AppData\Local\Programs\MiKTeX\tex/latex/threeparttable\threeparttable.sty
+Package: threeparttable 2003/06/13  v 3.0
+\@tempboxb=\box52
+) (C:\Users\Rio\AppData\Local\Programs\MiKTeX\tex/latex/endnotes\endnotes.sty
+Package: endnotes 2020-01-02 endnotes package
+\c@endnote=\count266
+\endnotesep=\dimen142
+\@enotes=\write3
+) (C:\Users\Rio\AppData\Local\Programs\MiKTeX\tex/latex/xkeyval\xkeyval.sty
+Package: xkeyval 2022/06/16 v2.9 package option processing (HA)
+ (C:\Users\Rio\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xkeyval.tex (C:\Users\Rio\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xkvutils.tex
+\XKV@toks=\toks19
+\XKV@tempa@toks=\toks20
+ (C:\Users\Rio\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\keyval.tex))
+\XKV@depth=\count267
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+)) (C:\Users\Rio\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+ (C:\Users\Rio\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+ (C:\Users\Rio\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
+Package: iftex 2022/02/03 v1.0f TeX engine tests
+))
+\Gm@cnth=\count268
+\Gm@cntv=\count269
+\c@Gm@tempcnt=\count270
+\Gm@bindingoffset=\dimen143
+\Gm@wd@mp=\dimen144
+\Gm@odd@mp=\dimen145
+\Gm@even@mp=\dimen146
+\Gm@layoutwidth=\dimen147
+\Gm@layoutheight=\dimen148
+\Gm@layouthoffset=\dimen149
+\Gm@layoutvoffset=\dimen150
+\Gm@dimlist=\toks21
+ (C:\Users\Rio\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg)) (C:\Users\Rio\AppData\Local\Programs\MiKTeX\tex/latex/changepage\changepage.sty
+Package: changepage 2009/10/20 v1.0c check page and change page layout
+\c@cp@cntr=\count271
+\cp@tempcnt=\count272
+) (C:\Users\Rio\AppData\Local\Programs\MiKTeX\tex/latex/stringstrings\stringstrings.sty
+Package: stringstrings 2020/12/08 v1.24 Extensive array of string manipulation routines for cosmetic and programming application
+ (C:\Users\Rio\AppData\Local\Programs\MiKTeX\tex/latex/base\ifthen.sty
+Package: ifthen 2022/04/13 v1.1d Standard LaTeX ifthen package (DPC)
+)
+\c@@letterindex=\count273
+\c@@@letterindex=\count274
+\c@@@@letterindex=\count275
+\c@@wordindex=\count276
+\c@@iargc=\count277
+\c@@gobblesize=\count278
+\c@@maxrotation=\count279
+\c@@stringsize=\count280
+\c@@@stringsize=\count281
+\c@@@@stringsize=\count282
+\c@@revisedstringsize=\count283
+\c@@gobbleindex=\count284
+\c@@charsfound=\count285
+\c@@alph=\count286
+\c@@alphaindex=\count287
+\c@@capstrigger=\count288
+\c@@fromindex=\count289
+\c@@toindex=\count290
+\c@@previousindex=\count291
+\c@@flag=\count292
+\c@@matchloc=\count293
+\c@@matchend=\count294
+\c@@matchsize=\count295
+\c@@matchmax=\count296
+\c@@skipped=\count297
+\c@@lcwords=\count298
+\c@@@matchloc=\count299
+) (C:\Users\Rio\AppData\Local\Programs\MiKTeX\tex/latex/textpos\textpos.sty
+Package: textpos 2022/07/23 v1.10.1
+Package textpos Info: choosing support for LaTeX3 on input line 60.
+\TP@textbox=\box53
+\TP@holdbox=\box54
+\TPHorizModule=\dimen151
+\TPVertModule=\dimen152
+\TP@margin=\dimen153
+\TP@absmargin=\dimen154
+
+Grid set 16 x 16 = 38.39343pt x 49.68562pt
+\TPboxrulesize=\dimen155
+\TP@ox=\dimen156
+\TP@oy=\dimen157
+\TP@tbargs=\toks22
+TextBlockOrigin set to 0pt x 0pt
+) (C:\Users\Rio\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\xcolor.sty
+Package: xcolor 2023/11/15 v3.01 LaTeX color extensions (UK)
+ (C:\Users\Rio\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 274.
+ (C:\Users\Rio\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def
+File: pdftex.def 2024/04/13 v1.2c Graphics/color driver for pdftex
+) (C:\Users\Rio\AppData\Local\Programs\MiKTeX\tex/latex/graphics\mathcolor.ltx)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1350.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1354.
+Package xcolor Info: Model `RGB' extended on input line 1366.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1368.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1370.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1371.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1372.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1373.
+) (C:\Users\Rio\AppData\Local\Programs\MiKTeX\tex/latex/colortbl\colortbl.sty
+Package: colortbl 2024/02/20 v1.0g Color table columns (DPC)
+ (C:\Users\Rio\AppData\Local\Programs\MiKTeX\tex/latex/tools\array.sty
+Package: array 2023/10/16 v2.5g Tabular extension package (FMi)
+\col@sep=\dimen158
+\ar@mcellbox=\box55
+\extrarowheight=\dimen159
+\NC@list=\toks23
+\extratabsurround=\skip51
+\backup@length=\skip52
+\ar@cellbox=\box56
+)
+\everycr=\toks24
+\minrowclearance=\skip53
+\rownum=\count300
+) (C:\Users\Rio\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\svgnam.def
+File: svgnam.def 2023/11/15 v3.01 Predefined colors according to SVG 1.1 (UK)
+) (C:\Users\Rio\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption.sty
+Package: caption 2023/08/05 v3.6o Customizing captions (AR)
+ (C:\Users\Rio\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption3.sty
+Package: caption3 2023/07/31 v2.4d caption3 kernel (AR)
+\caption@tempdima=\dimen160
+\captionmargin=\dimen161
+\caption@leftmargin=\dimen162
+\caption@rightmargin=\dimen163
+\caption@width=\dimen164
+\caption@indent=\dimen165
+\caption@parindent=\dimen166
+\caption@hangindent=\dimen167
+Package caption Info: Standard document class detected.
+)
+\c@caption@flags=\count301
+\c@continuedfloat=\count302
+Package caption Info: changepage package is loaded.
+\caption@adjustwidth@hsize=\dimen168
+\caption@adjustwidth@linewidth=\dimen169
+Package caption Info: threeparttable package is loaded.
+) (C:\Users\Rio\AppData\Local\Programs\MiKTeX\tex/latex/floatrow\floatrow.sty
+Package: floatrow 2008/08/02 v0.3b floatrow: float package extension
+\c@float@type=\count303
+\float@exts=\toks25
+\float@box=\box57
+\@floatcapt=\box58
+Package floatrow Info: Modified float package code loaded on input line 455.
+Package floatrow Info: Modified rotfloat package code loaded on input line 473.
+\FR@everyfloat=\toks26
+\flrow@foot=\insert252
+\FB@wd=\dimen170
+\FBo@wd=\dimen171
+\FBc@wd=\dimen172
+\FBo@ht=\skip54
+\FBc@ht=\skip55
+\FBf@ht=\skip56
+\FBo@max=\skip57
+\FBc@max=\skip58
+\FBf@max=\skip59
+\c@FBl@b=\count304
+\floatbox@depth=\count305
+\c@FRobj=\count306
+\c@FRsobj=\count307
+\Xhsize=\skip60
+\sXhsize=\skip61
+\Zhsize=\skip62
+\sZhsize=\skip63
+\flrow@rowbox=\box59
+\FR@Zunitlength=\dimen173
+\c@FBcnt=\count308
+\FPOScnt=\count309
+\LTleft=\skip64
+\LTright=\skip65
+\LTleft=\skip66
+\LTright=\skip67
+\flrow@types=\toks27
+) (C:\Users\Rio\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+ (C:\Users\Rio\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
+Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
+ (C:\Users\Rio\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+) (C:\Users\Rio\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+)
+\Gin@req@height=\dimen174
+\Gin@req@width=\dimen175
+) (C:\Users\Rio\AppData\Local\Programs\MiKTeX\tex/latex/url\url.sty
+\Urlmuskip=\muskip16
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+) (C:\Users\Rio\AppData\Local\Programs\MiKTeX\tex/latex/mdframed\mdframed.sty
+Package: mdframed 2013/07/01 1.9b: mdframed
+ (C:\Users\Rio\AppData\Local\Programs\MiKTeX\tex/latex/kvoptions\kvoptions.sty
+Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
+ (C:\Users\Rio\AppData\Local\Programs\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty
+Package: ltxcmds 2023-12-04 v1.26 LaTeX kernel commands for general use (HO)
+) (C:\Users\Rio\AppData\Local\Programs\MiKTeX\tex/latex/kvsetkeys\kvsetkeys.sty
+Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
+)) (C:\Users\Rio\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/xparse\xparse.sty (C:\Users\Rio\AppData\Local\Programs\MiKTeX\tex/latex/l3kernel\expl3.sty
+Package: expl3 2024-04-11 L3 programming layer (loader) 
+ (C:\Users\Rio\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
+File: l3backend-pdftex.def 2024-04-11 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count310
+\l__pdf_internal_box=\box60
+))
+Package: xparse 2024-03-14 L3 Experimental document command parser
+) (C:\Users\Rio\AppData\Local\Programs\MiKTeX\tex/latex/etoolbox\etoolbox.sty
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count311
+) (C:\Users\Rio\AppData\Local\Programs\MiKTeX\tex/latex/zref\zref-abspage.sty
+Package: zref-abspage 2023-09-14 v2.35 Module abspage for zref (HO)
+ (C:\Users\Rio\AppData\Local\Programs\MiKTeX\tex/latex/zref\zref-base.sty
+Package: zref-base 2023-09-14 v2.35 Module base for zref (HO)
+ (C:\Users\Rio\AppData\Local\Programs\MiKTeX\tex/generic/infwarerr\infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+) (C:\Users\Rio\AppData\Local\Programs\MiKTeX\tex/generic/kvdefinekeys\kvdefinekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+) (C:\Users\Rio\AppData\Local\Programs\MiKTeX\tex/generic/pdftexcmds\pdftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+) (C:\Users\Rio\AppData\Local\Programs\MiKTeX\tex/generic/etexcmds\etexcmds.sty
+Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
+) (C:\Users\Rio\AppData\Local\Programs\MiKTeX\tex/latex/auxhook\auxhook.sty
+Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
+)
+Package zref Info: New property list: main on input line 767.
+Package zref Info: New property: default on input line 768.
+Package zref Info: New property: page on input line 769.
+)
+\c@abspage=\count312
+Package zref Info: New property: abspage on input line 67.
+) (C:\Users\Rio\AppData\Local\Programs\MiKTeX\tex/latex/needspace\needspace.sty
+Package: needspace 2010/09/12 v1.3d reserve vertical space
+)
+\mdf@templength=\skip68
+\c@mdf@globalstyle@cnt=\count313
+\mdf@skipabove@length=\skip69
+\mdf@skipbelow@length=\skip70
+\mdf@leftmargin@length=\skip71
+\mdf@rightmargin@length=\skip72
+\mdf@innerleftmargin@length=\skip73
+\mdf@innerrightmargin@length=\skip74
+\mdf@innertopmargin@length=\skip75
+\mdf@innerbottommargin@length=\skip76
+\mdf@splittopskip@length=\skip77
+\mdf@splitbottomskip@length=\skip78
+\mdf@outermargin@length=\skip79
+\mdf@innermargin@length=\skip80
+\mdf@linewidth@length=\skip81
+\mdf@innerlinewidth@length=\skip82
+\mdf@middlelinewidth@length=\skip83
+\mdf@outerlinewidth@length=\skip84
+\mdf@roundcorner@length=\skip85
+\mdf@footenotedistance@length=\skip86
+\mdf@userdefinedwidth@length=\skip87
+\mdf@needspace@length=\skip88
+\mdf@frametitleaboveskip@length=\skip89
+\mdf@frametitlebelowskip@length=\skip90
+\mdf@frametitlerulewidth@length=\skip91
+\mdf@frametitleleftmargin@length=\skip92
+\mdf@frametitlerightmargin@length=\skip93
+\mdf@shadowsize@length=\skip94
+\mdf@extratopheight@length=\skip95
+\mdf@subtitleabovelinewidth@length=\skip96
+\mdf@subtitlebelowlinewidth@length=\skip97
+\mdf@subtitleaboveskip@length=\skip98
+\mdf@subtitlebelowskip@length=\skip99
+\mdf@subtitleinneraboveskip@length=\skip100
+\mdf@subtitleinnerbelowskip@length=\skip101
+\mdf@subsubtitleabovelinewidth@length=\skip102
+\mdf@subsubtitlebelowlinewidth@length=\skip103
+\mdf@subsubtitleaboveskip@length=\skip104
+\mdf@subsubtitlebelowskip@length=\skip105
+\mdf@subsubtitleinneraboveskip@length=\skip106
+\mdf@subsubtitleinnerbelowskip@length=\skip107
+ (C:\Users\Rio\AppData\Local\Programs\MiKTeX\tex/latex/mdframed\md-frame-0.mdf
+File: md-frame-0.mdf 2013/07/01\ 1.9b: md-frame-0
+)
+\mdf@frametitlebox=\box61
+\mdf@footnotebox=\box62
+\mdf@splitbox@one=\box63
+\mdf@splitbox@two=\box64
+\mdf@splitbox@save=\box65
+\mdfsplitboxwidth=\skip108
+\mdfsplitboxtotalwidth=\skip109
+\mdfsplitboxheight=\skip110
+\mdfsplitboxdepth=\skip111
+\mdfsplitboxtotalheight=\skip112
+\mdfframetitleboxwidth=\skip113
+\mdfframetitleboxtotalwidth=\skip114
+\mdfframetitleboxheight=\skip115
+\mdfframetitleboxdepth=\skip116
+\mdfframetitleboxtotalheight=\skip117
+\mdffootnoteboxwidth=\skip118
+\mdffootnoteboxtotalwidth=\skip119
+\mdffootnoteboxheight=\skip120
+\mdffootnoteboxdepth=\skip121
+\mdffootnoteboxtotalheight=\skip122
+\mdftotallinewidth=\skip123
+\mdfboundingboxwidth=\skip124
+\mdfboundingboxtotalwidth=\skip125
+\mdfboundingboxheight=\skip126
+\mdfboundingboxdepth=\skip127
+\mdfboundingboxtotalheight=\skip128
+\mdf@freevspace@length=\skip129
+\mdf@horizontalwidthofbox@length=\skip130
+\mdf@verticalmarginwhole@length=\skip131
+\mdf@horizontalspaceofbox=\skip132
+\mdfsubtitleheight=\skip133
+\mdfsubsubtitleheight=\skip134
+\c@mdfcountframes=\count314
+
+****** mdframed patching \endmdf@trivlist
+
+****** -- success******
+
+\mdf@envdepth=\count315
+\c@mdf@env@i=\count316
+\c@mdf@env@ii=\count317
+\c@mdf@zref@counter=\count318
+Package zref Info: New property: mdf@pagevalue on input line 895.
+) (C:\Users\Rio\AppData\Local\Programs\MiKTeX\tex/latex/mfirstuc\mfirstuc.sty
+Package: mfirstuc 2022/10/14 v2.08 (NLCT)
+\@glsmfirst=\toks28
+\@glsmrest=\toks29
+) (C:\Users\Rio\AppData\Local\Programs\MiKTeX\tex/generic/alphalph\alphalph.sty
+Package: alphalph 2019/12/09 v2.6 Convert numbers to letters (HO)
+ (C:\Users\Rio\AppData\Local\Programs\MiKTeX\tex/generic/intcalc\intcalc.sty
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+))
+\cup@author@cnt=\count319
+\cup@affil@cnt=\count320
+\cup@affil@alt@cnt=\count321
+\cup@footnote@cnt=\count322
+\cup@affil@marker@cnt=\count323
+\cup@space@pre@title=\skip135
+\cup@space@post@title=\skip136
+\cup@space@post@author=\skip137
+\cup@space@post@address=\skip138
+\cup@space@post@email=\skip139
+\cup@space@post@date=\skip140
+\cup@space@inter@extra=\skip141
+\cup@maketitle@width=\skip142
+\c@scheme=\count324
+\c@chart=\count325
+\c@graph=\count326
+\cup@collect@toks=\toks30
+\cup@collect@empty@toks=\toks31
+ (C:\Users\Rio\AppData\Local\Programs\MiKTeX\tex/latex/fbb\fbb.sty
+Package: fbb 2020/07/01 v1.16 Style file for fbb fonts.
+ `fbb' v1.16, 2020/07/01 Text macros for fbb, a Bembo-like font family (msharpe) (C:\Users\Rio\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.sty
+Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
+ (C:\Users\Rio\AppData\Local\Programs\MiKTeX\tex/latex/ly1\ly1enc.def
+File: ly1enc.def 2022/06/11 v0.8 TeX 'n ANSI encoding (DPC/KB)
+Now handling font encoding LY1 ...
+... processing UTF-8 mapping file for font encoding LY1
+ (C:\Users\Rio\AppData\Local\Programs\MiKTeX\tex/latex/base\ly1enc.dfu
+File: ly1enc.dfu 2022/06/07 v1.3c UTF-8 support
+   defining Unicode char U+00A0 (decimal 160)
+   defining Unicode char U+00A1 (decimal 161)
+   defining Unicode char U+00A2 (decimal 162)
+   defining Unicode char U+00A3 (decimal 163)
+   defining Unicode char U+00A4 (decimal 164)
+   defining Unicode char U+00A5 (decimal 165)
+   defining Unicode char U+00A6 (decimal 166)
+   defining Unicode char U+00A7 (decimal 167)
+   defining Unicode char U+00AA (decimal 170)
+   defining Unicode char U+00AB (decimal 171)
+   defining Unicode char U+00AD (decimal 173)
+   defining Unicode char U+00AE (decimal 174)
+   defining Unicode char U+00B0 (decimal 176)
+   defining Unicode char U+00B5 (decimal 181)
+   defining Unicode char U+00B6 (decimal 182)
+   defining Unicode char U+00B7 (decimal 183)
+   defining Unicode char U+00BA (decimal 186)
+   defining Unicode char U+00BB (decimal 187)
+   defining Unicode char U+00BC (decimal 188)
+   defining Unicode char U+00BD (decimal 189)
+   defining Unicode char U+00BE (decimal 190)
+   defining Unicode char U+00BF (decimal 191)
+   defining Unicode char U+00C0 (decimal 192)
+   defining Unicode char U+00C1 (decimal 193)
+   defining Unicode char U+00C2 (decimal 194)
+   defining Unicode char U+00C3 (decimal 195)
+   defining Unicode char U+00C4 (decimal 196)
+   defining Unicode char U+00C5 (decimal 197)
+   defining Unicode char U+00C6 (decimal 198)
+   defining Unicode char U+00C7 (decimal 199)
+   defining Unicode char U+00C8 (decimal 200)
+   defining Unicode char U+00C9 (decimal 201)
+   defining Unicode char U+00CA (decimal 202)
+   defining Unicode char U+00CB (decimal 203)
+   defining Unicode char U+00CC (decimal 204)
+   defining Unicode char U+00CD (decimal 205)
+   defining Unicode char U+00CE (decimal 206)
+   defining Unicode char U+00CF (decimal 207)
+   defining Unicode char U+00D0 (decimal 208)
+   defining Unicode char U+00D1 (decimal 209)
+   defining Unicode char U+00D2 (decimal 210)
+   defining Unicode char U+00D3 (decimal 211)
+   defining Unicode char U+00D4 (decimal 212)
+   defining Unicode char U+00D5 (decimal 213)
+   defining Unicode char U+00D6 (decimal 214)
+   defining Unicode char U+00D8 (decimal 216)
+   defining Unicode char U+00D9 (decimal 217)
+   defining Unicode char U+00DA (decimal 218)
+   defining Unicode char U+00DB (decimal 219)
+   defining Unicode char U+00DC (decimal 220)
+   defining Unicode char U+00DD (decimal 221)
+   defining Unicode char U+00DE (decimal 222)
+   defining Unicode char U+00DF (decimal 223)
+   defining Unicode char U+00E0 (decimal 224)
+   defining Unicode char U+00E1 (decimal 225)
+   defining Unicode char U+00E2 (decimal 226)
+   defining Unicode char U+00E3 (decimal 227)
+   defining Unicode char U+00E4 (decimal 228)
+   defining Unicode char U+00E5 (decimal 229)
+   defining Unicode char U+00E6 (decimal 230)
+   defining Unicode char U+00E7 (decimal 231)
+   defining Unicode char U+00E8 (decimal 232)
+   defining Unicode char U+00E9 (decimal 233)
+   defining Unicode char U+00EA (decimal 234)
+   defining Unicode char U+00EB (decimal 235)
+   defining Unicode char U+00EC (decimal 236)
+   defining Unicode char U+00ED (decimal 237)
+   defining Unicode char U+00EE (decimal 238)
+   defining Unicode char U+00EF (decimal 239)
+   defining Unicode char U+00F0 (decimal 240)
+   defining Unicode char U+00F1 (decimal 241)
+   defining Unicode char U+00F2 (decimal 242)
+   defining Unicode char U+00F3 (decimal 243)
+   defining Unicode char U+00F4 (decimal 244)
+   defining Unicode char U+00F5 (decimal 245)
+   defining Unicode char U+00F6 (decimal 246)
+   defining Unicode char U+00F8 (decimal 248)
+   defining Unicode char U+00F9 (decimal 249)
+   defining Unicode char U+00FA (decimal 250)
+   defining Unicode char U+00FB (decimal 251)
+   defining Unicode char U+00FC (decimal 252)
+   defining Unicode char U+00FD (decimal 253)
+   defining Unicode char U+00FE (decimal 254)
+   defining Unicode char U+00FF (decimal 255)
+   defining Unicode char U+0131 (decimal 305)
+   defining Unicode char U+0141 (decimal 321)
+   defining Unicode char U+0142 (decimal 322)
+   defining Unicode char U+0152 (decimal 338)
+   defining Unicode char U+0153 (decimal 339)
+   defining Unicode char U+0160 (decimal 352)
+   defining Unicode char U+0161 (decimal 353)
+   defining Unicode char U+0174 (decimal 372)
+   defining Unicode char U+0175 (decimal 373)
+   defining Unicode char U+0176 (decimal 374)
+   defining Unicode char U+0177 (decimal 375)
+   defining Unicode char U+0178 (decimal 376)
+   defining Unicode char U+017D (decimal 381)
+   defining Unicode char U+017E (decimal 382)
+   defining Unicode char U+0192 (decimal 402)
+   defining Unicode char U+0218 (decimal 536)
+   defining Unicode char U+0219 (decimal 537)
+   defining Unicode char U+021A (decimal 538)
+   defining Unicode char U+021B (decimal 539)
+   defining Unicode char U+0237 (decimal 567)
+   defining Unicode char U+02C6 (decimal 710)
+   defining Unicode char U+02DC (decimal 732)
+   defining Unicode char U+2013 (decimal 8211)
+   defining Unicode char U+2014 (decimal 8212)
+   defining Unicode char U+201C (decimal 8220)
+   defining Unicode char U+201D (decimal 8221)
+   defining Unicode char U+2020 (decimal 8224)
+   defining Unicode char U+2021 (decimal 8225)
+   defining Unicode char U+2022 (decimal 8226)
+   defining Unicode char U+2026 (decimal 8230)
+   defining Unicode char U+2030 (decimal 8240)
+   defining Unicode char U+2039 (decimal 8249)
+   defining Unicode char U+203A (decimal 8250)
+   defining Unicode char U+2122 (decimal 8482)
+   defining Unicode char U+FB00 (decimal 64256)
+   defining Unicode char U+FB01 (decimal 64257)
+   defining Unicode char U+FB02 (decimal 64258)
+   defining Unicode char U+FB03 (decimal 64259)
+   defining Unicode char U+FB04 (decimal 64260)
+   defining Unicode char U+FB05 (decimal 64261)
+   defining Unicode char U+FB06 (decimal 64262)
+))) (C:\Users\Rio\AppData\Local\Programs\MiKTeX\tex/latex/base\textcomp.sty
+Package: textcomp 2020/02/02 v2.0n Standard LaTeX package
+) (C:\Users\Rio\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifetex.sty
+Package: ifetex 2019/10/25 v1.3 ifetex legacy package. Use iftex instead.
+) (C:\Users\Rio\AppData\Local\Programs\MiKTeX\tex/latex/xstring\xstring.sty (C:\Users\Rio\AppData\Local\Programs\MiKTeX\tex/generic/xstring\xstring.tex
+\xs_counta=\count327
+\xs_countb=\count328
+)
+Package: xstring 2023/08/22 v1.86 String manipulations (CT)
+) (C:\Users\Rio\AppData\Local\Programs\MiKTeX\tex/latex/fontaxes\fontaxes.sty
+Package: fontaxes 2020/07/21 v1.0e Font selection axes
+LaTeX Info: Redefining \upshape on input line 29.
+LaTeX Info: Redefining \itshape on input line 31.
+LaTeX Info: Redefining \slshape on input line 33.
+LaTeX Info: Redefining \swshape on input line 35.
+LaTeX Info: Redefining \scshape on input line 37.
+LaTeX Info: Redefining \sscshape on input line 39.
+LaTeX Info: Redefining \ulcshape on input line 41.
+LaTeX Info: Redefining \textsw on input line 47.
+LaTeX Info: Redefining \textssc on input line 48.
+LaTeX Info: Redefining \textulc on input line 49.
+)
+LaTeX Info: Redefining \swshape on input line 41.
+) (C:\Users\Rio\AppData\Local\Programs\MiKTeX\tex/latex/sourcesanspro\sourcesanspro.sty
+Package: sourcesanspro 2018/05/19 v2.7 Adobe's Source Sans Pro typeface
+ (C:\Users\Rio\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifxetex.sty
+Package: ifxetex 2019/10/25 v0.7 ifxetex legacy package. Use iftex instead.
+) (C:\Users\Rio\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifluatex.sty
+Package: ifluatex 2019/10/25 v1.5 ifluatex legacy package. Use iftex instead.
+) (C:\Users\Rio\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.sty
+Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
+LaTeX Font Info:    Trying to load font information for T1+fbb-TLF on input line 112.
+ (C:\Users\Rio\AppData\Local\Programs\MiKTeX\tex/latex/fbb\t1fbb-tlf.fd
+File: T1fbb-TLF.fd 2020/07/01 (msharpe) Font definitions for T1/fbb-TLF.
+)
+LaTeX Font Info:    Font shape `T1/fbb-TLF/m/n' will be
+(Font)              scaled to size 9.70001pt on input line 112.
+)) (C:\Users\Rio\AppData\Local\Programs\MiKTeX\tex/latex/sansmath\sansmath.sty
+Package: sansmath 2007/02/28  ver 1.1 Donald Arseneau
+\c@mv@sans=\count329
+LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `sans'
+(Font)                  OT1/cmr/m/n --> OT1/SourceSansPro-TLF/m/n on input line 103.
+LaTeX Font Info:    Overwriting math alphabet `\mathsfsl' in version `sans'
+(Font)                  OT1/SourceSansPro-TLF/m/sl --> OT1/SourceSansPro-TLF/m/sl on input line 104.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `sans'
+(Font)                  OT1/cmr/m/n --> OT1/SourceSansPro-TLF/m/n on input line 105.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `sans'
+(Font)                  OML/cmm/m/it --> OML/cmm/m/it on input line 109.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `sans'
+(Font)                  OMS/cmsy/m/n --> OMS/cmsy/m/n on input line 110.
+LaTeX Font Info:    Overwriting math alphabet `\mathsfbf' in version `sans'
+(Font)                  OT1/SourceSansPro-TLF/bx/sl --> OT1/SourceSansPro-TLF/bx/n on input line 112.
+) (C:\Users\Rio\AppData\Local\Programs\MiKTeX\tex/latex/mathastext\mathastext.sty
+Package: mathastext 2023/12/29 v1.3zb Use the text font in math mode (JFB)
+
+Package mathastext Info: Starting the math mode configuration.
+\mst@exists@muskip=\muskip17
+\mst@forall@muskip=\muskip18
+\mst@prime@muskip=\muskip19
+\mst@do@nonletters=\toks32
+\mst@do@easynonletters=\toks33
+\mst@do@az=\toks34
+\mst@do@AZ=\toks35
+\symmtoperatorfont=\mathgroup4
+\symmtletterfont=\mathgroup5
+(   mathastext:   ) will use Euler font; command \MTEulerScale
+\symmteulervm=\mathgroup6
+(   mathastext:   ) ! and ?
+(   mathastext:   ) punctuation: , . : ; and \colon
+LaTeX Info: Redefining \relbar on input line 894.
+LaTeX Info: Redefining \rightarrowfill on input line 897.
+LaTeX Info: Redefining \leftarrowfill on input line 902.
+(   mathastext:   ) + and =
+LaTeX Info: Redefining \Relbar on input line 993.
+(   mathastext:   ) adding = ; and + to \nfss@catcodes
+(   mathastext:   ) parentheses ( ) [ ] and slash /
+(   mathastext:   ) alldelims: < > \backslash \setminus | \vert \mid \{ \}
+LaTeX Font Info:    Redeclaring math delimiter \backslash on input line 1039.
+LaTeX Font Info:    Redeclaring math symbol \setminus on input line 1051.
+LaTeX Info: Redefining \models on input line 1060.
+(   mathastext:   ) \# \mathdollar \% \& 
+(   mathastext:   ) \imath and \jmath 
+LaTeX Font Info:    Overwriting math alphabet `\Mathnormalbold' in version `normal'
+(Font)                  T1/fbb-TLF/b/it --> T1/fbb-TLF/b/it on input line 2516.
+LaTeX Font Info:    Overwriting math alphabet `\Mathnormalbold' in version `bold'
+(Font)                  T1/fbb-TLF/b/it --> T1/fbb-TLF/b/it on input line 2516.
+LaTeX Font Info:    Overwriting symbol font `mtletterfont' in version `normal'
+(Font)                  T1/fbb-TLF/m/it --> T1/fbb-TLF/m/it on input line 2516.
+LaTeX Font Info:    Overwriting symbol font `mtletterfont' in version `bold'
+(Font)                  T1/fbb-TLF/m/it --> T1/fbb-TLF/b/it on input line 2516.
+LaTeX Font Info:    Overwriting symbol font `mtoperatorfont' in version `normal'
+(Font)                  T1/fbb-TLF/m/n --> T1/fbb-TLF/m/n on input line 2516.
+LaTeX Font Info:    Overwriting symbol font `mtoperatorfont' in version `bold'
+(Font)                  T1/fbb-TLF/m/n --> T1/fbb-TLF/b/n on input line 2516.
+LaTeX Font Info:    Overwriting math alphabet `\Mathbf' in version `normal'
+(Font)                  T1/fbb-TLF/b/n --> T1/fbb-TLF/b/n on input line 2516.
+LaTeX Font Info:    Overwriting math alphabet `\Mathbf' in version `bold'
+(Font)                  T1/fbb-TLF/b/n --> T1/fbb-TLF/b/n on input line 2516.
+LaTeX Font Info:    Overwriting math alphabet `\Mathit' in version `normal'
+(Font)                  T1/fbb-TLF/m/it --> T1/fbb-TLF/m/it on input line 2516.
+LaTeX Font Info:    Overwriting math alphabet `\Mathit' in version `bold'
+(Font)                  T1/fbb-TLF/m/it --> T1/fbb-TLF/b/it on input line 2516.
+LaTeX Font Info:    Overwriting math alphabet `\Mathsf' in version `normal'
+(Font)                  T1/SourceSansPro-TLF/m/n --> T1/SourceSansPro-TLF/m/n on input line 2516.
+LaTeX Font Info:    Overwriting math alphabet `\Mathsf' in version `bold'
+(Font)                  T1/SourceSansPro-TLF/m/n --> T1/SourceSansPro-TLF/b/n on input line 2516.
+LaTeX Font Info:    Overwriting math alphabet `\Mathtt' in version `normal'
+(Font)                  T1/cmtt/m/n --> T1/cmtt/m/n on input line 2516.
+LaTeX Font Info:    Overwriting math alphabet `\Mathtt' in version `bold'
+(Font)                  T1/cmtt/m/n --> T1/cmtt/b/n on input line 2516.
+LaTeX Font Info:    Overwriting symbol font `mteulervm' in version `bold'
+(Font)                  U/zeur/m/n --> U/zeur/b/n on input line 2516.
+LaTeX Font Info:    Overwriting math alphabet `\MathEulerBold' in version `normal'
+(Font)                  U/zeur/b/n --> U/zeur/b/n on input line 2516.
+LaTeX Font Info:    Overwriting math alphabet `\MathEulerBold' in version `bold'
+(Font)                  U/zeur/b/n --> U/zeur/b/n on input line 2516.
+(   mathastext:   ) Latin letters in the `normal', resp. `bold',
+(   mathastext:   ) math versions are now set up to use the fonts
+(   mathastext:   ) T1/fbb-TLF/m/it, resp. T1/fbb-TLF/b/it.
+(   mathastext:   ) Other characters (digits, ...) and \log-like names will be
+(   mathastext:   ) typeset with the n shape.
+(   mathastext:   ) \hbar
+(   mathastext:   ) minus as endash
+(   mathastext:   ) The italic option is in effect.
+(   mathastext:   ) Greek letters will use the Euler font.
+(   mathastext:   ) Use \MathastextEulerScale{<factor>} to scale the font.
+(   mathastext:   ) \HUGE has been (re)-defined.
+(   mathastext:   ) mathastext has declared larger sizes for subscripts.
+(   mathastext:   ) To keep LaTeX defaults, use option `defaultmathsizes'.
+
+Package mathastext Info: Loading is complete.  You can now use \Mathastext to
+(mathastext)             modify the normal and bold math versions.  Use it
+(mathastext)             with optional argument or use \MTDeclareVersion to
+(mathastext)             declare additional math versions.
+) (C:\Users\Rio\AppData\Local\Programs\MiKTeX\tex/latex/biblatex-chicago\biblatex-chicago.sty
+Package: biblatex-chicago 2022/07/02 v 3.18 biblatex style
+ (C:\Users\Rio\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\nameref.sty
+Package: nameref 2023-11-26 v2.56 Cross-referencing by name of section
+ (C:\Users\Rio\AppData\Local\Programs\MiKTeX\tex/latex/refcount\refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+) (C:\Users\Rio\AppData\Local\Programs\MiKTeX\tex/generic/gettitlestring\gettitlestring.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+)
+\c@section@level=\count330
+) (C:\Users\Rio\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\biblatex.sty
+Package: biblatex 2024/03/21 v3.20 programmable bibliographies (PK/MW)
+ (C:\Users\Rio\AppData\Local\Programs\MiKTeX\tex/latex/logreq\logreq.sty
+Package: logreq 2010/08/04 v1.0 xml request logger
+\lrq@indent=\count331
+ (C:\Users\Rio\AppData\Local\Programs\MiKTeX\tex/latex/logreq\logreq.def
+File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
+))
+\c@tabx@nest=\count332
+\c@listtotal=\count333
+\c@listcount=\count334
+\c@liststart=\count335
+\c@liststop=\count336
+\c@citecount=\count337
+\c@citetotal=\count338
+\c@multicitecount=\count339
+\c@multicitetotal=\count340
+\c@instcount=\count341
+\c@maxnames=\count342
+\c@minnames=\count343
+\c@maxitems=\count344
+\c@minitems=\count345
+\c@citecounter=\count346
+\c@maxcitecounter=\count347
+\c@savedcitecounter=\count348
+\c@uniquelist=\count349
+\c@uniquename=\count350
+\c@refsection=\count351
+\c@refsegment=\count352
+\c@maxextratitle=\count353
+\c@maxextratitleyear=\count354
+\c@maxextraname=\count355
+\c@maxextradate=\count356
+\c@maxextraalpha=\count357
+\c@abbrvpenalty=\count358
+\c@highnamepenalty=\count359
+\c@lownamepenalty=\count360
+\c@maxparens=\count361
+\c@parenlevel=\count362
+\blx@tempcnta=\count363
+\blx@tempcntb=\count364
+\blx@tempcntc=\count365
+\c@blx@maxsection=\count366
+\blx@maxsegment@0=\count367
+\blx@notetype=\count368
+\blx@parenlevel@text=\count369
+\blx@parenlevel@foot=\count370
+\blx@sectionciteorder@0=\count371
+\blx@sectionciteorderinternal@0=\count372
+\blx@entrysetcounter=\count373
+\blx@biblioinstance=\count374
+\labelnumberwidth=\skip143
+\labelalphawidth=\skip144
+\biblabelsep=\skip145
+\bibitemsep=\skip146
+\bibnamesep=\skip147
+\bibinitsep=\skip148
+\bibparsep=\skip149
+\bibhang=\skip150
+\blx@bcfin=\read2
+\blx@bcfout=\write4
+\blx@langwohyphens=\language79
+\c@mincomprange=\count375
+\c@maxcomprange=\count376
+\c@mincompwidth=\count377
+Package biblatex Info: Trying to load biblatex default data model...
+Package biblatex Info: ... file 'blx-dm.def' found.
+ (C:\Users\Rio\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\blx-dm.def
+File: blx-dm.def 2024/03/21 v3.20 biblatex datamodel (PK/MW)
+)
+Package biblatex Info: Trying to load biblatex style data model...
+Package biblatex Info: ... file 'chicago-authordate-trad.dbx' not found.
+Package biblatex Info: Trying to load biblatex custom data model...
+Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
+\c@afterword=\count378
+\c@savedafterword=\count379
+\c@annotator=\count380
+\c@savedannotator=\count381
+\c@author=\count382
+\c@savedauthor=\count383
+\c@bookauthor=\count384
+\c@savedbookauthor=\count385
+\c@commentator=\count386
+\c@savedcommentator=\count387
+\c@editor=\count388
+\c@savededitor=\count389
+\c@editora=\count390
+\c@savededitora=\count391
+\c@editorb=\count392
+\c@savededitorb=\count393
+\c@editorc=\count394
+\c@savededitorc=\count395
+\c@foreword=\count396
+\c@savedforeword=\count397
+\c@holder=\count398
+\c@savedholder=\count399
+\c@introduction=\count400
+\c@savedintroduction=\count401
+\c@namea=\count402
+\c@savednamea=\count403
+\c@nameb=\count404
+\c@savednameb=\count405
+\c@namec=\count406
+\c@savednamec=\count407
+\c@translator=\count408
+\c@savedtranslator=\count409
+\c@shortauthor=\count410
+\c@savedshortauthor=\count411
+\c@shorteditor=\count412
+\c@savedshorteditor=\count413
+\c@labelname=\count414
+\c@savedlabelname=\count415
+\c@institution=\count416
+\c@savedinstitution=\count417
+\c@lista=\count418
+\c@savedlista=\count419
+\c@listb=\count420
+\c@savedlistb=\count421
+\c@listc=\count422
+\c@savedlistc=\count423
+\c@listd=\count424
+\c@savedlistd=\count425
+\c@liste=\count426
+\c@savedliste=\count427
+\c@listf=\count428
+\c@savedlistf=\count429
+\c@location=\count430
+\c@savedlocation=\count431
+\c@organization=\count432
+\c@savedorganization=\count433
+\c@origlocation=\count434
+\c@savedoriglocation=\count435
+\c@origpublisher=\count436
+\c@savedorigpublisher=\count437
+\c@publisher=\count438
+\c@savedpublisher=\count439
+\c@language=\count440
+\c@savedlanguage=\count441
+\c@origlanguage=\count442
+\c@savedoriglanguage=\count443
+\c@pageref=\count444
+\c@savedpageref=\count445
+\shorthandwidth=\skip151
+\shortjournalwidth=\skip152
+\shortserieswidth=\skip153
+\shorttitlewidth=\skip154
+\shortauthorwidth=\skip155
+\shorteditorwidth=\skip156
+\locallabelnumberwidth=\skip157
+\locallabelalphawidth=\skip158
+\localshorthandwidth=\skip159
+\localshortjournalwidth=\skip160
+\localshortserieswidth=\skip161
+\localshorttitlewidth=\skip162
+\localshortauthorwidth=\skip163
+\localshorteditorwidth=\skip164
+Package biblatex Info: Trying to load compatibility code...
+Package biblatex Info: ... file 'blx-compat.def' found.
+ (C:\Users\Rio\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\blx-compat.def
+File: blx-compat.def 2024/03/21 v3.20 biblatex compatibility (PK/MW)
+)
+Package biblatex Info: Trying to load generic definitions...
+Package biblatex Info: ... file 'biblatex.def' found.
+ (C:\Users\Rio\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\biblatex.def
+File: biblatex.def 2024/03/21 v3.20 biblatex compatibility (PK/MW)
+\c@textcitecount=\count446
+\c@textcitetotal=\count447
+\c@textcitemaxnames=\count448
+\c@biburlbigbreakpenalty=\count449
+\c@biburlbreakpenalty=\count450
+\c@biburlnumpenalty=\count451
+\c@biburlucpenalty=\count452
+\c@biburllcpenalty=\count453
+\biburlbigskip=\muskip20
+\biburlnumskip=\muskip21
+\biburlucskip=\muskip22
+\biburllcskip=\muskip23
+\c@smartand=\count454
+)
+Package biblatex Info: Trying to load natbib compatibility...
+Package biblatex Info: ... file 'blx-natbib.def' found.
+ (C:\Users\Rio\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\blx-natbib.def
+File: blx-natbib.def 2024/03/21 v3.20 biblatex compatibility (PK/MW)
+Package biblatex Info: Delimiter 'nameyeardelim' in context '' already defined, overwriting.
+)
+Package biblatex Info: Trying to load bibliography style 'chicago-authordate-trad'...
+Package biblatex Info: ... file 'chicago-authordate-trad.bbx' found.
+ (C:\Users\Rio\AppData\Local\Programs\MiKTeX\tex/latex/biblatex-chicago\chicago-authordate-trad.bbx
+File: chicago-authordate-trad.bbx 
+Package biblatex Info: Trying to load bibliography style 'chicago-authordate'...
+Package biblatex Info: ... file 'chicago-authordate.bbx' found.
+ (C:\Users\Rio\AppData\Local\Programs\MiKTeX\tex/latex/biblatex-chicago\chicago-authordate.bbx
+File: chicago-authordate.bbx 2022/11/17 v 3.18b biblatex bibliography style
+\lositemsep=\skip165
+Package biblatex Info: Delimiter 'revsdnamedelim' in context '' already defined, overwriting.
+\cms@tempcnta=\count455
+\cms@tempcntb=\count456
+\c@bbx:relatedcount=\count457
+\c@bbx:relatedtotal=\count458
+))
+Package biblatex Info: Trying to load citation style 'chicago-authordate-trad'...
+Package biblatex Info: ... file 'chicago-authordate-trad.cbx' found.
+ (C:\Users\Rio\AppData\Local\Programs\MiKTeX\tex/latex/biblatex-chicago\chicago-authordate-trad.cbx
+File: chicago-authordate-trad.cbx 2022/07/02 v 3.18 biblatex citation style
+Package biblatex Info: Trying to load citation style 'chicago-dates-common'...
+Package biblatex Info: ... file 'chicago-dates-common.cbx' found.
+ (C:\Users\Rio\AppData\Local\Programs\MiKTeX\tex/latex/biblatex-chicago\chicago-dates-common.cbx
+File: chicago-dates-common.cbx 2024/04/15 v 3.20 biblatex citation style
+Package biblatex Info: Redefining '\cite'.
+Package biblatex Info: Redefining '\parencite'.
+Package biblatex Info: Redefining '\footcite'.
+Package biblatex Info: Redefining '\footcitetext'.
+Package biblatex Info: Redefining '\citetitle'.
+Package biblatex Info: Redefining '\footfullcite'.
+Package biblatex Info: Redefining '\fullcite'.
+Package biblatex Info: Redefining '\textcite'.
+Package biblatex Info: Redefining '\textcites'.
+Package biblatex Info: Redefining '\cites'.
+Package biblatex Info: Redefining '\parencites'.
+Package biblatex Info: Redefining '\footcites'.
+Package biblatex Info: Redefining '\footcitetexts'.
+\c@cms@punct=\count459
+Package biblatex Info: Delimiter 'dateeradelim' in context '' already defined, overwriting.
+))
+Package biblatex Info: Trying to load configuration file...
+Package biblatex Info: ... file 'biblatex.cfg' found.
+ (C:\Users\Rio\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\biblatex.cfg
+File: biblatex.cfg 
+)
+Package biblatex Info: Input encoding 'utf8' detected.
+Package biblatex Info: Document encoding is UTF8 ....
+Package biblatex Info: ... and expl3
+(biblatex)             2024-04-11 L3 programming layer (loader) 
+(biblatex)             is new enough (at least 2020/04/06),
+(biblatex)             setting 'casechanger=expl3'.
+ (C:\Users\Rio\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\blx-case-expl3.sty
+Package: blx-case-expl3 2024/03/21 v3.20 expl3 case changing code for biblatex
+)))) (C:\Users\Rio\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsmath.sty
+Package: amsmath 2023/05/13 v2.17o AMS math features
+\@mathmargin=\skip166
+
+For additional information on amsmath, use the `?' option.
+(C:\Users\Rio\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amstext.sty
+Package: amstext 2021/08/26 v2.01 AMS text
+ (C:\Users\Rio\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks36
+\ex@=\dimen176
+)) (C:\Users\Rio\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen177
+) (C:\Users\Rio\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsopn.sty
+Package: amsopn 2022/04/08 v2.04 operator names
+)
+\inf@bad=\count460
+LaTeX Info: Redefining \frac on input line 234.
+\uproot@=\count461
+\leftroot@=\count462
+LaTeX Info: Redefining \overline on input line 399.
+LaTeX Info: Redefining \colon on input line 410.
+\classnum@=\count463
+\DOTSCASE@=\count464
+LaTeX Info: Redefining \ldots on input line 496.
+LaTeX Info: Redefining \dots on input line 499.
+LaTeX Info: Redefining \cdots on input line 620.
+\Mathstrutbox@=\box66
+\strutbox@=\box67
+LaTeX Info: Redefining \big on input line 722.
+LaTeX Info: Redefining \Big on input line 723.
+LaTeX Info: Redefining \bigg on input line 724.
+LaTeX Info: Redefining \Bigg on input line 725.
+\big@size=\dimen178
+LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
+\macc@depth=\count465
+LaTeX Info: Redefining \bmod on input line 905.
+LaTeX Info: Redefining \pmod on input line 910.
+LaTeX Info: Redefining \smash on input line 940.
+LaTeX Info: Redefining \relbar on input line 970.
+LaTeX Info: Redefining \Relbar on input line 971.
+\c@MaxMatrixCols=\count466
+\dotsspace@=\muskip24
+\c@parentequation=\count467
+\dspbrk@lvl=\count468
+\tag@help=\toks37
+\row@=\count469
+\column@=\count470
+\maxfields@=\count471
+\andhelp@=\toks38
+\eqnshift@=\dimen179
+\alignsep@=\dimen180
+\tagshift@=\dimen181
+\tagwidth@=\dimen182
+\totwidth@=\dimen183
+\lineht@=\dimen184
+\@envbody=\toks39
+\multlinegap=\skip167
+\multlinetaggap=\skip168
+\mathdisplay@stack=\toks40
+LaTeX Info: Redefining \[ on input line 2953.
+LaTeX Info: Redefining \] on input line 2954.
+) (C:\Users\Rio\AppData\Local\Programs\MiKTeX\tex/latex/microtype\microtype.sty
+Package: microtype 2024/03/29 v3.1b Micro-typographical refinements (RS)
+\MT@toks=\toks41
+\MT@tempbox=\box68
+\MT@count=\count472
+LaTeX Info: Redefining \noprotrusionifhmode on input line 1061.
+LaTeX Info: Redefining \leftprotrusion on input line 1062.
+\MT@prot@toks=\toks42
+LaTeX Info: Redefining \rightprotrusion on input line 1081.
+LaTeX Info: Redefining \textls on input line 1392.
+\MT@outer@kern=\dimen185
+LaTeX Info: Redefining \textmicrotypecontext on input line 2013.
+\MT@listname@count=\count473
+ (C:\Users\Rio\AppData\Local\Programs\MiKTeX\tex/latex/microtype\microtype-pdftex.def
+File: microtype-pdftex.def 2024/03/29 v3.1b Definitions specific to pdftex (RS)
+LaTeX Info: Redefining \lsstyle on input line 902.
+LaTeX Info: Redefining \lslig on input line 902.
+\MT@outer@space=\skip169
+)
+Package microtype Info: Loading configuration file microtype.cfg.
+ (C:\Users\Rio\AppData\Local\Programs\MiKTeX\tex/latex/microtype\microtype.cfg
+File: microtype.cfg 2024/03/29 v3.1b microtype main configuration file (RS)
+)) (C:\Users\Rio\AppData\Local\Programs\MiKTeX\tex/latex/booktabs\booktabs.sty
+Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
+\heavyrulewidth=\dimen186
+\lightrulewidth=\dimen187
+\cmidrulewidth=\dimen188
+\belowrulesep=\dimen189
+\belowbottomsep=\dimen190
+\aboverulesep=\dimen191
+\abovetopsep=\dimen192
+\cmidrulesep=\dimen193
+\cmidrulekern=\dimen194
+\defaultaddspace=\dimen195
+\@cmidla=\count474
+\@cmidlb=\count475
+\@aboverulesep=\dimen196
+\@belowrulesep=\dimen197
+\@thisruleclass=\count476
+\@lastruleclass=\count477
+\@thisrulewidth=\dimen198
+)
+\@quotelevel=\count478
+\@quotereset=\count479
+
+
+LaTeX Warning: Unused global option(s):
+    [journal=medium,manuscript=article-type,year=2020,volume=37].
+
+(sample.aux)
+\openout1 = `sample.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for LY1/ptm/m/n on input line 32.
+LaTeX Font Info:    Trying to load font information for LY1+ptm on input line 32.
+ (C:\Users\Rio\AppData\Local\Programs\MiKTeX\tex/latex/ly1\ly1ptm.fd
+File: ly1ptm.fd 2001/02/01 font definitions for LY1/ptm using Berry names.
+)
+LaTeX Font Info:    ... okay on input line 32.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: custom
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: twoside 
+* h-part:(L,W,R)=(51.21504pt, 401.18378pt, 42.67912pt)
+* v-part:(T,H,B)=(65.44142pt, 597.50797pt, 39.83368pt)
+* \paperwidth=495.07794pt
+* \paperheight=702.78307pt
+* \textwidth=401.18378pt
+* \textheight=597.50797pt
+* \oddsidemargin=-21.05495pt
+* \evensidemargin=-29.59087pt
+* \topmargin=-41.59085pt
+* \headheight=12.0pt
+* \headsep=22.76228pt
+* \topskip=10.0pt
+* \footskip=30.0pt
+* \marginparwidth=121.0pt
+* \marginparsep=11.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidetrue
+* \@mparswitchtrue
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+(C:\Users\Rio\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count480
+\scratchdimen=\dimen199
+\scratchbox=\box69
+\nofMPsegments=\count481
+\nofMParguments=\count482
+\everyMPshowfont=\toks43
+\MPscratchCnt=\count483
+\MPscratchDim=\dimen256
+\MPnumerator=\count484
+\makeMPintoPDFobject=\count485
+\everyMPtoPDFconversion=\toks44
+) (C:\Users\Rio\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
+ (C:\Users\Rio\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+))
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: float package is loaded.
+Package caption Info: floatrow package is loaded.
+Package caption Info: floatrow package is loaded.
+Package caption Info: End \AtBeginDocument code.
+\c@mv@tabular=\count486
+\c@mv@boldtabular=\count487
+Package biblatex Info: Trying to load language 'english' -> 'cms-american'...
+Package biblatex Info: ... file 'cms-american.lbx' found.
+ (C:\Users\Rio\AppData\Local\Programs\MiKTeX\tex/latex/biblatex-chicago\cms-american.lbx
+File: cms-american.lbx 2022/07/02 v 3.18 biblatex localization
+Package biblatex Info: Trying to load language 'american'...
+Package biblatex Info: ... file 'american.lbx' found.
+ (C:\Users\Rio\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/lbx\american.lbx
+File: american.lbx 2024/03/21 v3.20 biblatex localization (PK/MW)
+Package biblatex Info: Trying to load language 'english'...
+Package biblatex Info: ... file 'english.lbx' found.
+ (C:\Users\Rio\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/lbx\english.lbx
+File: english.lbx 2024/03/21 v3.20 biblatex localization (PK/MW)
+))
+Package biblatex Info: Trying to load language 'english'...
+Package biblatex Info: ... file 'english.lbx' found.
+ (C:\Users\Rio\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/lbx\english.lbx
+File: english.lbx 2024/03/21 v3.20 biblatex localization (PK/MW)
+))
+Package biblatex Info: Input encoding 'utf8' detected.
+Package biblatex Info: Automatic encoding selection.
+(biblatex)             Assuming data encoding 'utf8'.
+\openout4 = `sample.bcf'.
+
+Package biblatex Info: Trying to load bibliographic data...
+Package biblatex Info: ... file 'sample.bbl' found.
+ (sample.bbl)
+Package biblatex Info: Reference section=0 on input line 32.
+Package biblatex Info: Reference segment=0 on input line 32.
+LaTeX Info: Redefining \microtypecontext on input line 32.
+Package microtype Info: Generating PDF output.
+Package microtype Info: Character protrusion enabled (level 2).
+Package microtype Info: Using default protrusion set `alltext'.
+Package microtype Info: Automatic font expansion enabled (level 2),
+(microtype)             stretch: 20, shrink: 20, step: 1, non-selected.
+Package microtype Info: Using default expansion set `alltext-nott'.
+LaTeX Info: Redefining \showhyphens on input line 32.
+Package microtype Info: No adjustment of tracking.
+Package microtype Info: No adjustment of interword spacing.
+Package microtype Info: No adjustment of character kerning.
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `fbb-TLF' (encoding: T1).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+LaTeX Font Info:    Font shape `T1/fbb-TLF/m/n' will be
+(Font)              scaled to size 6.79001pt on input line 32.
+LaTeX Font Info:    Font shape `T1/fbb-TLF/m/it' will be
+(Font)              scaled to size 6.79001pt on input line 32.
+LaTeX Font Info:    Font shape `T1/fbb-TLF/b/n' will be
+(Font)              scaled to size 6.79001pt on input line 32.
+<cup-logo-new.pdf, id=1, 75.1802pt x 16.73366pt>
+File: cup-logo-new.pdf Graphic file (type pdf)
+<use cup-logo-new.pdf>
+Package pdftex.def Info: cup-logo-new.pdf  used on input line 32.
+(pdftex.def)             Requested size: 73.97716pt x 16.46576pt.
+LaTeX Font Info:    Trying to load font information for T1+SourceSansPro-TLF on input line 32.
+ (C:\Users\Rio\AppData\Local\Programs\MiKTeX\tex/latex/sourcesanspro\t1sourcesanspro-tlf.fd
+File: T1SourceSansPro-TLF.fd 2020/01/19 (autoinst) Font definitions for T1/SourceSansPro-TLF.
+)
+LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/m/n' aliased to
+(Font)              `T1/SourceSansPro-TLF/regular/n' on input line 32.
+LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/regular/n' will be
+(Font)              scaled to size 10.0pt on input line 32.
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `SourceSansPro-TLF' (encoding: T1).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/sb/n' aliased to
+(Font)              `T1/SourceSansPro-TLF/semibold/n' on input line 32.
+LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/semibold/n' will be
+(Font)              scaled to size 10.0pt on input line 32.
+LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/sb/n' aliased to
+(Font)              `T1/SourceSansPro-TLF/semibold/n' on input line 32.
+LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/semibold/n' will be
+(Font)              scaled to size 17.28pt on input line 32.
+ (C:\Users\Rio\AppData\Local\Programs\MiKTeX\tex/latex/microtype\mt-cmr.cfg
+File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman (RS)
+)
+LaTeX Font Info:    Font shape `T1/fbb-TLF/m/n' will be
+(Font)              scaled to size 7.76001pt on input line 32.
+LaTeX Font Info:    Font shape `T1/fbb-TLF/m/n' will be
+(Font)              scaled to size 5.82pt on input line 32.
+LaTeX Font Info:    Font shape `T1/fbb-TLF/m/it' will be
+(Font)              scaled to size 9.70001pt on input line 32.
+LaTeX Font Info:    Font shape `T1/fbb-TLF/m/it' will be
+(Font)              scaled to size 7.76001pt on input line 32.
+LaTeX Font Info:    Font shape `T1/fbb-TLF/m/it' will be
+(Font)              scaled to size 5.82pt on input line 32.
+LaTeX Font Info:    Trying to load font information for U+zeur on input line 32.
+ (C:\Users\Rio\AppData\Local\Programs\MiKTeX\tex/latex/eulervm\uzeur.fd
+File: uzeur.fd 2005/01/11 v4.0 (WaS)
+) (C:\Users\Rio\AppData\Local\Programs\MiKTeX\tex/latex/microtype\mt-eur.cfg
+File: mt-eur.cfg 2006/07/31 v1.1 microtype config. file: AMS Euler Roman (RS)
+)
+LaTeX Font Info:    Font shape `T1/fbb-TLF/m/n' will be
+(Font)              scaled to size 4.85pt on input line 32.
+LaTeX Font Info:    Font shape `T1/fbb-TLF/m/it' will be
+(Font)              scaled to size 4.85pt on input line 32.
+Package mdframed Info: mdframed works in twoside mode on input line 34.
+LaTeX Font Info:    Font shape `T1/fbb-TLF/m/n' will be
+(Font)              scaled to size 8.73001pt on input line 34.
+LaTeX Font Info:    Font shape `T1/fbb-TLF/b/n' will be
+(Font)              scaled to size 9.70001pt on input line 36.
+LaTeX Font Info:    Font shape `T1/fbb-TLF/b/n' will be
+(Font)              scaled to size 8.73001pt on input line 36.
+LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/sb/n' aliased to
+(Font)              `T1/SourceSansPro-TLF/semibold/n' on input line 36.
+LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/semibold/n' will be
+(Font)              scaled to size 9.0pt on input line 36.
+LaTeX Font Info:    Font shape `T1/fbb-TLF/b/n' will be
+(Font)              scaled to size 7.76001pt on input line 36.
+LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 43.
+ (C:\Users\Rio\AppData\Local\Programs\MiKTeX\tex/latex/base\t1cmtt.fd
+File: t1cmtt.fd 2023/04/13 v2.5m Standard LaTeX font definitions
+)
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `cmtt' (encoding: T1).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+LaTeX Font Info:    Trying to load font information for TS1+fbb-TLF on input line 53.
+ (C:\Users\Rio\AppData\Local\Programs\MiKTeX\tex/latex/fbb\ts1fbb-tlf.fd
+File: TS1fbb-TLF.fd 2015/08/23 (autoinst) Font definitions for TS1/fbb-TLF.
+)
+LaTeX Font Info:    Font shape `TS1/fbb-TLF/m/n' will be
+(Font)              scaled to size 9.70001pt on input line 53.
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `fbb-TLF' (encoding: TS1).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+ [1
+
+{C:/Users/Rio/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/Rio/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/fbb/fbb_jc4ywh.enc}{C:/Users/Rio/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/fbb/fbb_4zjlsx.enc}{C:/Users/Rio/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/fbb/fbb_ivhnor.enc}{C:/Users/Rio/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/sourcesanspro/a_emkxm5.enc}{C:/Users/Rio/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/fbb/fbb_dejuay.enc} <./cup-logo-new.pdf>]
+LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/sb/it' aliased to
+(Font)              `T1/SourceSansPro-TLF/semibold/it' on input line 73.
+LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/semibold/it' will be
+(Font)              scaled to size 10.0pt on input line 73.
+LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/m/it' aliased to
+(Font)              `T1/SourceSansPro-TLF/regular/it' on input line 78.
+LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/regular/it' will be
+(Font)              scaled to size 10.0pt on input line 78.
+\openout3 = `sample.ent'.
+
+ [2]
+LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/m/n' aliased to
+(Font)              `T1/SourceSansPro-TLF/regular/n' on input line 129.
+LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/regular/n' will be
+(Font)              scaled to size 8.0pt on input line 129.
+<example-image-16x10.pdf, id=26, 321.2pt x 200.75pt>
+File: example-image-16x10.pdf Graphic file (type pdf)
+<use example-image-16x10.pdf>
+Package pdftex.def Info: example-image-16x10.pdf  used on input line 131.
+(pdftex.def)             Requested size: 300.88783pt x 188.05867pt.
+LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/sb/n' aliased to
+(Font)              `T1/SourceSansPro-TLF/semibold/n' on input line 132.
+LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/semibold/n' will be
+(Font)              scaled to size 8.0pt on input line 132.
+File: example-image-16x10.pdf Graphic file (type pdf)
+<use example-image-16x10.pdf>
+Package pdftex.def Info: example-image-16x10.pdf  used on input line 139.
+(pdftex.def)             Requested size: 320.94824pt x 200.5994pt.
+LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/m/n' aliased to
+(Font)              `T1/SourceSansPro-TLF/regular/n' on input line 155.
+LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/regular/n' will be
+(Font)              scaled to size 6.0pt on input line 155.
+ [3 <./example-image-16x10.pdf>] (sample.ent) [4] 
+enddocument/afterlastpage: lastpage setting LastPage.
+(sample.aux)
+ ***********
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-04-11>
+ ***********
+Package logreq Info: Writing requests to 'sample.run.xml'.
+\openout1 = `sample.run.xml'.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 23444 strings out of 474370
+ 439078 string characters out of 5741479
+ 1943754 words of memory out of 5000000
+ 45238 multiletter control sequences out of 15000+600000
+ 756267 words of font info for 245 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 94i,16n,131p,811b,4037s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ <C:\Users\Rio\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ectt1000.pk><C:/Users/Rio/AppData/Local/Programs/MiKTeX/fonts/type1/adobe/sourcesanspro/SourceSansPro-It.pfb><C:/Users/Rio/AppData/Local/Programs/MiKTeX/fonts/type1/adobe/sourcesanspro/SourceSansPro-Regular.pfb><C:/Users/Rio/AppData/Local/Programs/MiKTeX/fonts/type1/adobe/sourcesanspro/SourceSansPro-Semibold.pfb><C:/Users/Rio/AppData/Local/Programs/MiKTeX/fonts/type1/adobe/sourcesanspro/SourceSansPro-SemiboldIt.pfb><C:/Users/Rio/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/Rio/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Users/Rio/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/euler/eurm10.pfb><C:/Users/Rio/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/euler/eurm7.pfb><C:/Users/Rio/AppData/Local/Programs/MiKTeX/fonts/type1/public/fbb/fbb-Bold.pfb><C:/Users/Rio/AppData/Local/Programs/MiKTeX/fonts/type1/public/fbb/fbb-Italic.pfb><C:/Users/Rio/AppData/Local/Programs/MiKTeX/fonts/type1/public/fbb/fbb-Regular.pfb><C:/Users/Rio/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmss12.pfb><C:/Users/Rio/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmss17.pfb><C:/Users/Rio/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsy10.pfb>
+Output written on sample.pdf (4 pages, 400912 bytes).
+PDF statistics:
+ 136 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 96779 words of extra memory for PDF output out of 106986 (max. 10000000)
+
